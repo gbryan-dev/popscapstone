@@ -1,0 +1,371 @@
+<?php
+if (session_status() === PHP_SESSION_NONE) {
+    @session_start(); 
+}
+
+// If already logged in, redirect to index
+if (isset($_SESSION['logged_director'])) {
+    header("Location: index.php");
+    exit();
+}
+
+// Database connection
+include '../../db_conn.php';
+
+$error_message = '';
+
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    $input_username = $_POST['username'] ?? '';
+    $input_password = $_POST['password'] ?? '';
+    
+    if (!empty($input_username) && !empty($input_password)) {
+        // Query to check admin credentials
+        $stmt = $conn->prepare("SELECT * FROM officials_acc WHERE username = ? AND role_id = 1");
+        $stmt->bind_param("s", $input_username);
+        $stmt->execute();
+        $result = $stmt->get_result();
+        $admin = $result->fetch_assoc();
+        
+        if ($admin && password_verify($input_password, $admin['password'])) {
+            // Login successful
+            $_SESSION['logged_director'] = [
+                'id' => $admin['id'],
+                'username' => $admin['username'],
+                'email' => $admin['email'],
+                'role_id' => $admin['role_id']
+            ];
+            header("Location: index");
+            exit();
+        } else {
+            $error_message = 'Incorrect username or password';
+        }
+        $stmt->close();
+    } else {
+        $error_message = 'Please enter both username and password';
+    }
+}
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+       <?php include('partials/head.php')?>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 20px;
+        }
+        
+        .login-container {
+            max-width: 450px;
+            width: 100%;
+        }
+        
+        .login-card {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 50px 40px;
+            animation: slideUp 0.5s ease-out;
+        }
+        
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .login-header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .login-logo {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, #D52941 0%, #D52941 100%);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 20px;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+        }
+        
+        .login-logo i {
+            font-size: 40px;
+            color: white;
+        }
+        
+        .login-header h2 {
+            color: #2d3748;
+            font-weight: 700;
+            margin-bottom: 8px;
+            font-size: 28px;
+        }
+        
+        .login-header p {
+            color: #718096;
+            font-size: 14px;
+        }
+        
+        .form-label {
+            font-weight: 600;
+            color: #4a5568;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+        
+        .input-group-custom {
+            position: relative;
+            margin-bottom: 25px;
+        }
+        
+        .input-group-custom i {
+            position: absolute;
+            left: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #a0aec0;
+            font-size: 20px;
+        }
+        
+        .form-control {
+            border-radius: 12px;
+            padding: 14px 15px 14px 45px;
+            border: 2px solid #e2e8f0;
+            font-size: 15px;
+            transition: all 0.3s;
+        }
+        
+        .form-control:focus {
+            border-color: #D52941;
+            box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.1);
+            outline: none;
+        }
+        
+        .password-toggle {
+            position: relative;
+        }
+        
+        .password-toggle .toggle-icon {
+            position: absolute;
+            right: 15px;
+            width: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            cursor: pointer;
+            color: #a0aec0;
+            user-select: none;
+            z-index: 10;
+        }
+        
+        .password-toggle .toggle-icon:hover {
+            color: #D52941;
+        }
+        
+        .forgot-password-link {
+            text-align: right;
+            margin-top: -15px;
+            margin-bottom: 20px;
+        }
+        
+        .forgot-password-link a {
+            color: #D52941;
+            font-size: 13px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s;
+        }
+        
+        .forgot-password-link a:hover {
+            color: #b82237;
+            text-decoration: underline;
+        }
+        
+        .btn-login {
+            background: linear-gradient(135deg, #D52941 0%, #D52941 100%);
+            border: none;
+            border-radius: 12px;
+            padding: 14px;
+            font-weight: 600;
+            font-size: 16px;
+            width: 100%;
+            color: white;
+            margin-top: 10px;
+            transition: all 0.3s;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .btn-login:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5);
+            background: linear-gradient(135deg, #D52941 0%, #D52941 100%);
+        }
+        
+        .btn-login:active {
+            transform: translateY(0);
+        }
+        
+        .error-message {
+            background: #fff5f5;
+            border: 1px solid #fc8181;
+            border-radius: 10px;
+            padding: 12px 15px;
+            margin-bottom: 25px;
+            display: flex;
+            align-items: center;
+            animation: shake 0.5s;
+        }
+        
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-10px); }
+            75% { transform: translateX(10px); }
+        }
+        
+        .error-message i {
+            color: #e53e3e;
+            margin-right: 10px;
+            font-size: 20px;
+        }
+        
+        .error-message span {
+            color: #c53030;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        .login-footer {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 25px;
+            border-top: 1px solid #e2e8f0;
+        }
+        
+        .login-footer p {
+            color: #718096;
+            font-size: 13px;
+            margin: 0;
+        }
+        
+        @media (max-width: 480px) {
+            .login-card {
+                padding: 40px 30px;
+            }
+            
+            .login-header h2 {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-card">
+            <div class="login-header">
+                <div class="login-logo">
+                    <i class="material-icons">admin_panel_settings</i>
+                </div>
+                <h2>Hello, Director</h2>
+                <p>Pyrotechnic Online Permitting System</p>
+            </div>
+
+            <?php if (!empty($error_message)): ?>
+                <div class="error-message">
+                    <i class="material-icons">error</i>
+                    <span><?php echo htmlspecialchars($error_message); ?></span>
+                </div>
+            <?php endif; ?>
+
+            <?php if (!empty($timeout_message)): ?>
+                <div class="error-message" style="background: #fffbeb; border-color: #f59e0b;">
+                    <i class="material-icons" style="color: #d97706;">schedule</i>
+                    <span style="color: #92400e;"><?php echo htmlspecialchars($timeout_message); ?></span>
+                </div>
+            <?php endif; ?>
+
+            <form method="POST" action="">
+                <div class="mb-3">
+                    <label for="username" class="form-label">Username</label>
+                    <div class="input-group-custom">
+                        <i class="material-icons">person</i>
+                        <input type="text" class="form-control" id="username" name="username" 
+                               placeholder="Enter your username" required 
+                               value="<?php echo isset($_POST['username']) ? htmlspecialchars($_POST['username']) : ''; ?>"
+                               autocomplete="username">
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password</label>
+                    <div class="input-group-custom password-toggle">
+                        <input type="password" class="form-control" id="password" name="password" 
+                               placeholder="Enter your password" required
+                               autocomplete="current-password">
+                        <i class="material-icons toggle-icon" onclick="togglePassword()">visibility_off</i>
+                    </div>
+                </div>
+
+                <div class="forgot-password-link">
+                    <a href="recovery">
+                        <i class="material-icons" style="font-size: 20px; vertical-align: middle;">lock_reset</i>
+                        Forgot Password?
+                    </a>
+                </div>
+
+                <button type="submit" class="btn btn-login">
+                    <i class="material-icons" style="vertical-align: middle; margin-right: 5px; font-size: 20px;">login</i>
+                    Sign In
+                </button>
+            </form>
+
+           
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function togglePassword() {
+            const passwordField = document.getElementById('password');
+            const toggleIcon = document.querySelector('.toggle-icon');
+            
+            if (passwordField.type === 'password') {
+                passwordField.type = 'text';
+                toggleIcon.textContent = 'visibility';
+            } else {
+                passwordField.type = 'password';
+                toggleIcon.textContent = 'visibility_off';
+            }
+        }
+
+        // Focus on username field on load
+        window.onload = function() {
+            document.getElementById('username').focus();
+        };
+
+        // Allow Enter key to submit
+        document.getElementById('password').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                this.form.submit();
+            }
+        });
+    </script>
+</body>
+</html>

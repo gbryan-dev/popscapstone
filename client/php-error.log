@@ -1,0 +1,1920 @@
+[09-Aug-2025 11:39:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:17 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:17 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:17 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:26 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:26 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:26 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:32 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:32 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:32 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:39:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:17 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:17 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:17 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:26 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:26 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:26 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:32 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:32 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:32 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:40:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57
+[09-Aug-2025 11:41:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'permi_id' in 'order clause' in C:\xampp\htdocs\popsy\client\fetch_permits.php:57
+Stack trace:
+#0 C:\xampp\htdocs\popsy\client\fetch_permits.php(57): mysqli->prepare('SELECT ref_id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\popsy\client\fetch_permits.php on line 57

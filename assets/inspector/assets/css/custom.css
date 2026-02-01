@@ -1,0 +1,63 @@
+   canvas {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100vw;
+      height: 100vh;
+      pointer-events: none; /* allow clicks through canvas */
+      background: transparent;
+      display: block;
+      z-index: 9999;
+    }
+
+.seemorebtn {
+    background-color: transparent;
+    color: #0C0D50; /* You can customize this color */
+    border: 1px solid #0C0D50;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.seemorebtn:hover {
+    background-color: #0C0D50;
+    color: #fff;
+}
+
+
+
+.remarksdivcon { 
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 0px;
+    width: 100%;
+    background-color: #F2F2F2;
+    z-index: 1;
+    overflow: hidden;
+
+    transition: 1s ;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 576px) {
+    .mobile-fullwidth {
+        width: 100% !important;
+        margin: 0 auto;
+    }
+}
+
+
